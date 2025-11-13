@@ -1,0 +1,24 @@
+Feature,Importance
+tenure,114
+InternetService_Fiber optic,101
+MonthlyCharges,80
+Contract_Two year,79
+PaymentMethod_Electronic check,73
+TotalCharges,68
+Contract_One year,54
+StreamingMovies_Yes,39
+InternetService_No,36
+PhoneService_Yes,21
+OnlineSecurity_Yes,12
+StreamingTV_Yes,10
+SeniorCitizen,4
+TechSupport_Yes,2
+OnlineBackup_Yes,2
+Partner_Yes,2
+DeviceProtection_Yes,1
+Dependents_Yes,1
+PaymentMethod_Credit card (automatic),1
+MultipleLines_Yes,0
+PaperlessBilling_Yes,0
+gender_Male,0
+PaymentMethod_Mailed check,0
